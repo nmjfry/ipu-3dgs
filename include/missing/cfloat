@@ -1,0 +1,11 @@
+// Copyright (c) 2023 Graphcore Ltd. All rights reserved.
+
+// Popc doesn't ship this file so add it:
+
+#ifndef __CFLOAT_HEADER
+#define __CFLOAT_HEADER
+
+#include <float.h>
+
+#endif // CFLOAT_HEADER
+
