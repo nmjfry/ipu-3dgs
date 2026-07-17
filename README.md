@@ -2,6 +2,8 @@
 
 Code release for the EGSR 2026 paper
 [*Rendering 3D Gaussians on a Graph Processor*](https://doi.org/10.2312/sr.20261017).
+Project page with video, talk and BibTeX:
+<https://nmjfry.github.io/ipu-3dgs/>.
 
 This is a forward-only 3D Gaussian Splatting renderer that runs entirely in
 on-chip SRAM on a Graphcore IPU. The framebuffer is partitioned across the
